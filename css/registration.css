@@ -1,0 +1,147 @@
+#wrap{width:1350px; height:840px; position:absolute;}
+#welcome
+{
+	width:500px;
+	height:60px;
+	background-color:#099;
+	margin-top:-20px;
+	position:static;
+	border-bottom: 5px solid #333;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	
+}
+
+#welcome > p 
+{
+	font-family:"Segoe UI Light";
+	font-size:30px;
+	padding-top:5px;
+	color:#FFF;
+}
+
+#login
+{
+	width:450px;
+	height:50px;
+	background-color:#F03;
+	border-bottom: 8px solid #333;
+    border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	
+}
+
+
+
+#content
+	{
+	width:500px;
+	height:700px;
+	float:right;
+	background-color:#390;
+	border: 10px solid #060;
+	margin-top:15px;
+	margin-bottom:20px;
+	margin-right:415px;
+	}
+	
+#content > table,tr
+	{
+	font-family:"Segoe UI Light";
+	font-size:18px;
+	color:#FFF;
+	}
+	
+#content > table,td
+	{
+		padding-top:10px;
+		padding-left:30px;
+	
+	}
+		
+#info
+	{
+	width:200px;
+	height:45px;
+	float:left;
+	background-color:#390;
+	margin-top:148px;
+	margin-left:200px;
+	border-bottom: 6px solid #333;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius:40px;	
+	}
+	
+#info > h
+	{	
+	font-family:"Segoe UI Light";
+	font-size:26px;
+	padding-left:20px;
+	padding-top:20px;
+	text-align:center;
+    color:#FFF;
+	}
+
+#time
+	{
+	width:230px;
+	height:40px;
+	float:left;
+	background-color:#390;	
+	margin-top:210px;
+	margin-left:-230px;
+	position:static;
+	border-bottom: 6px solid #333;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius:40px;
+	}
+
+#time > h 
+{
+	font-family:"Segoe UI Light";
+	font-size:17px;
+	position:absolute;
+	padding-left:15px;
+	margin-top:8px;
+	color:#FFF;
+}
+
+#time2
+	{
+	width:120px;
+	height:40px;
+	float:left;
+	background-color:#390;	
+	margin-top:268px;
+	margin-left:-120px;
+	position:static;
+	border-bottom: 6px solid #333;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius:40px;
+	}
+	
+#time2 > h 
+{
+	font-family:"Segoe UI Light";
+	font-size:17px;
+	position:absolute;
+	padding-left:20px;
+	margin-top:8px;
+	color:#FFF;
+}
+
+#buttonbottom
+{
+	width:500px;
+	height:60px;
+	margin-top:120px;
+	background-color:transparent;
+}
+
+#submit
+{
+	padding-top:8px;
+	padding-left:0px;	
+}

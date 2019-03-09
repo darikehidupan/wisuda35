@@ -1,0 +1,132 @@
+#wrap{width:1350px; height:600px; position:absolute;}
+
+#login{
+	height: 90px;
+	width: 90px;
+	margin-top:20px;
+	margin-left:400px;
+	float:left;
+	-moz-border-radius: 65px;
+	border-radius: 65px;
+	background-color:#390;
+	opacity:0.3;
+	}
+
+#login:hover
+	{
+	opacity:1.0;
+	}
+
+#login > a{
+	padding-top:10px;
+	padding-right:8px;
+	float:right;	
+	}
+		
+#login2{
+	height:90px;
+	width:340px;
+	margin-top:20px;
+	margin-right:500px;
+	float:right;
+	background-color:#390;
+	}
+	
+#login2 > form
+	{
+	padding-left:5px;
+	padding-top:5px;	
+	}	
+
+#loginbutton 
+	{
+     color:#FFF; 
+     font-family:'Arial Black', Gadget, sans-serif;
+     font-size:25px; 
+     border:none; 
+     width:130px;
+     height:60px;
+	 float:right;
+	 margin-right:15px;
+	 margin-top:-90px; 
+	 background-color:#063;	
+	}
+
+#loginbutton:active
+	{	 
+     color:#FFF; 
+     font-family:'Arial Black', Gadget, sans-serif;
+     font-size:25px; 
+     border:none; 
+     width:130px;
+     height:60px;
+	 float:right;
+	 margin-right:15px;
+	 margin-top:-60px;  
+	 background-color:#00CC33;	
+	}	
+		
+#login3
+	{
+	height:60px;
+	width:130px;
+	float:left
+	margin-top:15px;
+	margin-right:20px;
+	}	
+	
+#login4
+	{
+	height:40px;
+	width:330px;
+	margin-top:20px;
+	margin-right:500px;
+	float:right;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom:5px solid #333;
+	background-color:#390;
+	}
+
+#login4 > h 
+	{
+		font-family:"Segoe UI";
+		font-size:20px;
+		position:absolute;
+		padding-left:100px;
+		margin-top:4px;
+		color:#FFFFFF;
+		
+	}
+
+#login5
+	{
+	height:40px;
+	width:330px;
+	margin-top:15px;
+	margin-right:500px;
+	float:right;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom:5px solid #333;
+	background-color:#390;
+	}
+	
+#login5 > h 
+	{
+		font-family:"Segoe UI";
+		font-size:20px;
+		position:absolute;
+		padding-left:80px;
+		margin-top:2px;
+		color:#FFFFFF;
+		
+	}
+
+
+	
+	

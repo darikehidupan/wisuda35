@@ -1,0 +1,160 @@
+#wrap{width:1350px; height:690px;}
+#up{
+	width:1100px;
+	height:85px;
+	margin-top:30px;
+	margin-left:0px;
+	background-image:url(../img/back%20home.jpg);
+	border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+		
+}
+
+#up > p
+{
+	float:left;
+	font-size:25px;
+	font-family:"Segoe UI Light";
+	text-align:left;
+	margin-top:5px;
+	margin-bottom:0px;
+	padding-left:25px;
+	color:#FFFFFF;	
+}
+
+#up > p1
+{
+	float:right;
+	font-size:19px;
+	font-family:"Segoe UI Light";
+	margin-top:12px;
+	margin-bottom:0px;
+	padding-right:50px;
+	color:#FFF;	
+	
+}
+
+#up > p2
+{
+	float:left;
+	font-size:19px;
+	font-family:"Segoe UI Light";
+	margin-top:45px;
+	margin-left:360px;
+	position:absolute;
+	color:#FFF;		
+}
+
+
+
+
+#upb{
+	width:1100px;
+	height:40px;
+	position:absolute;
+	margin-top:75px;
+	background-color:#9C3;
+	border-bottom-right-radius:40px;
+	border-bottom-left-radius:40px;
+	border-top-left-radius:0px;
+	border-top-right-radius:0px;
+	border-bottom: 8px solid #333;	
+}
+
+#content
+{
+	width:1300px;
+	height:300px;
+	margin-top:46px;
+	background-color:#6C0;
+	border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border: 6px solid #333;		
+}
+
+#content > table
+{
+
+	margin-top:20px;
+	border-color:#FFFFFF;
+}
+
+#content > table,tr,td
+{
+	font-size:12px;
+	color:#FFFFFF;
+}
+
+#copyright
+{
+	width:1100px;
+	height:50px;
+	margin-top:8px;
+	margin-left:120px;
+	margin-bottom:20px;
+	position:absolute;
+	background-color:#390;	
+	border-bottom: 8px solid #333;
+	border-bottom-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+
+}
+
+#copyright > p
+{
+	text-align:center;
+	font-size:18px;
+	font-family:"Segoe UI Light";
+	margin-top:8px;
+	color:#FFFFFF;	
+	
+}
+
+/* CSSTerm.com Simple Horizontal DropDown CSS menu */
+
+.drop_menu {
+	position:absolute;
+	font:20px Georgia, "Times New Roman", Times, serif;
+	list-style-type:none;
+	margin-left:-15px;
+	margin-top:2px;
+	
+}
+.drop_menu li { float:left; }
+.drop_menu li a {
+	padding:9px 20px;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+	font:14px arial, verdana, sans-serif;
+}
+
+/* Submenu */
+.drop_menu ul {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+	list-style-type:none;
+}
+.drop_menu li:hover { position:relative; background-color:#F90;}
+.drop_menu li:hover ul {
+	left:0px;
+	top:30px;
+	padding:0px;
+}
+
+.drop_menu li:hover ul li a {
+	padding:8px;
+	display:block;
+	width:150px;
+	text-align:left;
+	text-indent:10px;
+	background-color:#C30;
+}
+.drop_menu li:hover ul li a:hover { background-color:#333; }
+
+

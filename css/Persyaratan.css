@@ -1,0 +1,133 @@
+#wrap{width:1350px; height:690px;}
+#up{
+	width:1000px;
+	height:85px;
+	margin-top:50px;
+	margin-left:0px;
+	background-image:url(../img/back%20home.jpg);
+	border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+		
+}
+
+#up > p
+{
+	float:left;
+	font-size:25px;
+	font-family:"Segoe UI Light";
+	text-align:left;
+	margin-top:5px;
+	margin-bottom:0px;
+	padding-left:25px;
+	color:#FFFFFF;	
+}
+
+#up > p1
+{
+	float:right;
+	font-size:19px;
+	font-family:"Segoe UI Light";
+	margin-top:12px;
+	margin-bottom:0px;
+	padding-right:50px;
+	color:#FFF;	
+	
+}
+
+#up > p2
+{
+	float:left;
+	font-size:19px;
+	font-family:"Segoe UI Light";
+	margin-top:45px;
+	margin-left:350px;
+	position:absolute;
+	color:#FFF;		
+}
+
+
+
+#content
+{
+	width:950px;
+	height:350px;
+	margin-top:20px;
+	background-color:#093;
+	opacity:0.8;
+	border-top-right-radius:15px;
+	border-top-left-radius:15px;
+	border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px;	
+}
+
+		
+}
+
+#content > h
+{
+	text-align:left;
+	font-size:30px;
+	font-family:"Segoe UI Light";
+	margin-top:10px;
+	margin-left:15px;
+	color:#FFFFFF;			
+}
+
+#content > p1
+{
+	float:left;
+	font-size:20px;
+	font-family:"Segoe UI Light";
+	margin-top:10px;
+	margin-left:30px;
+	color:#FFFFFF;			
+}
+
+
+
+
+#content > table
+{
+	border-color:#FFFFFF;
+}
+
+#content > table,tr,td
+{
+	font-size:13px;
+	color:#FFFFFF;
+	text-align:center;
+}
+
+
+#copyright
+{
+	width:1000px;
+	height:50px;
+	margin-top:15px;
+	margin-left:170px;
+	margin-bottom:20px;
+	position:absolute;
+	background-color:#390;	
+	border-bottom: 8px solid #333;
+	border-bottom-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+
+}
+
+#copyright > p
+{
+	text-align:center;
+	font-size:18px;
+	font-family:"Segoe UI Light";
+	margin-top:8px;
+	color:#FFFFFF;	
+	
+}
+
+/* CSSTerm.com Simple Horizontal DropDown CSS menu */
+
+.

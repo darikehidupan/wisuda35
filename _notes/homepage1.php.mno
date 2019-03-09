@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SessionUser" value="name:user_id;datatype:int,name:NamaLengkap;datatype:string,name:NPM;datatype:int,name:Jenis_Kelamin;datatype:blob,name:TTL;datatype:date,name:Fakultas;datatype:blob,name:Alamat;datatype:string,name:NoTelp;datatype:string,name:NoHP;datatype:string,name:NamaAyah;datatype:string,name:NamaIbu;datatype:string,name:username;datatype:string,name:password;datatype:string,name:NomorKursi;datatype:string" />
+	<infoitem key="UD_SessionUser3" value="name:user_id;datatype:int,name:NamaLengkap;datatype:string,name:NPM;datatype:int,name:Jenis_Kelamin;datatype:blob,name:TTL;datatype:date,name:Fakultas;datatype:blob,name:Alamat;datatype:string,name:NoTelp;datatype:string,name:NoHP;datatype:string,name:NamaAyah;datatype:string,name:NamaIbu;datatype:string,name:username;datatype:string,name:password;datatype:string,name:NomorKursi;datatype:string,name:status;datatype:string" />
+</info>
